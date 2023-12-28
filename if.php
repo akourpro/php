@@ -12,7 +12,7 @@ if (isset($_POST['update'])) {
     // } else {
     //     echo "كلمة المرور غير صحيحة";
     // }
-    // Ctrl + Shift + G
+
 
     echo $pass1;
     echo "<br>";
